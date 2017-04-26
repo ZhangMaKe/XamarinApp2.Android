@@ -27,7 +27,6 @@ namespace XamarinApp2
             );
             nameList.Add(new Names(){ Name = "Mark", FavouriteTeam = "Arsenal" });
             nameList.Add(new Names(){ Name = "Mes", FavouriteTeam = "Germany" });
-			nameList.Add(new Names() { Name = "Dave", FavouriteTeam = "Arsenal" });
 
             return nameList;
         }
