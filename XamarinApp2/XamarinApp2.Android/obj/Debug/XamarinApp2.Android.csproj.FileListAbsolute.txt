@@ -70,5 +70,11 @@ C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\asse
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\XamarinApp2.Android.dll.mdb
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\XamarinApp2.dll.mdb
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\bin\Debug\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\bin\Debug\Microsoft.Azure.Mobile.Android.Bindings.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\bin\Debug\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\bin\Debug\Microsoft.Azure.Mobile.dll
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\XamarinApp2.Android.dll.mdb
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\bin\Debug\XamarinApp2.Android.dll.mdb

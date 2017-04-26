@@ -100,6 +100,12 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "XamarinApp2.Android.dll" comes first in this list. */
 		"XamarinApp2.Android.dll",
 		"FormsViewGroup.dll",
+		"Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.Analytics.dll",
+		"Microsoft.Azure.Mobile.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.Crashes.dll",
+		"Microsoft.Azure.Mobile.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",

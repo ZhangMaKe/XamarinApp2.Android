@@ -1,5 +1,11 @@
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\XamarinApp2.Android.dll
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\FormsViewGroup.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Android.Bindings.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Microsoft.Azure.Mobile.dll
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2.Android\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll

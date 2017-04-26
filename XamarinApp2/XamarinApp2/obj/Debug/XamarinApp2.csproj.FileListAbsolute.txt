@@ -13,5 +13,10 @@ C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\obj\Debug\XamarinApp2.MainPage
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\obj\Debug\XamarinApp2.App.xaml.g.cs
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\obj\Debug\XamarinApp2.dll
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\obj\Debug\XamarinApp2.pdb
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\bin\Debug\Microsoft.Azure.Mobile.dll
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\obj\Debug\XamarinApp2.dll.mdb
+C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\bin\Debug\XamarinApp2.dll.mdb
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\obj\Debug\XamarinApp2.dll.mdb
 C:\Playground\XamarinApp2\XamarinApp2\XamarinApp2\bin\Debug\XamarinApp2.dll.mdb
